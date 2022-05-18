@@ -1,4 +1,4 @@
-# PWA Budget Tracker
+# Budget Tracker PWA Application
 
 ![License Badge](https://img.shields.io/github/license/mmeii/progressive-budget-tracker) ![Top Language](https://img.shields.io/github/languages/top/mmeii/progressive-budget-tracker)
 
@@ -10,7 +10,7 @@ A Budget Tracker application that allows users to add expenses and deposits to a
 * [Usage](#usage)
 * [Links](#Links)
 * [Features](#Features)
-* [License](#License)
+
 
 ## Installation
 
@@ -37,7 +37,7 @@ A Budget Tracker application that allows users to add expenses and deposits to a
 
 * Then total funds over time by date are displayed on graph
 
-  ![PWA Budget Tracker Screenshot](public/assets/images/pwa-budget-tracker-screenshot.png)
+  ![Budget Tracker Screenshot](public/assets/Screen Shot 2022-05-18 at 2.05.00 PM.png)
 
 * The app can be used online and offline
 
@@ -49,25 +49,20 @@ A Budget Tracker application that allows users to add expenses and deposits to a
   * Offline entries should be added to tracker
 
 * There is also the option to download the app
+![Budget Tracker Screenshot](public/assets/Screen Shot 2022-05-18 at 2.08.51 PM.png)
 
-  ![Download App](public/assets/images/download-pwa-icon.png)
 
 ## Links
 
-* [Github](https://github.com/mmeii/progressive-budget-tracker)
-* [Live Heroku App](https://mt-progressive-budget-tracker.herokuapp.com/)
+* [Github]()
+* [Live Heroku App]()
 
 ## Features
-
-* Node
 * Express
-* JavaScript
+* Node
 * MongoDB
+* JavaScript
 * Mongoose
 * Progressive Web Application
 
-## License
 
-  Copyright (c) Mengmei Tu. All rights reserved.
-  
-  Licensed under the [MIT](LICENSE) license.
